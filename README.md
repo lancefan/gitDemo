@@ -1,5 +1,5 @@
 # GitDemo
-I am the master, 2nd revision.
+I am the master, 2nd rev.
 
 Modified on dev, 1st revision. 
 
